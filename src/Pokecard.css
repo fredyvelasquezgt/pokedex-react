@@ -8,6 +8,12 @@
     border-radius: 3px;
 }
 
+.Pokecard-title {
+    margin-bottom: 1rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
 .Pokecard-data {
     font-size: 80%;
 }
