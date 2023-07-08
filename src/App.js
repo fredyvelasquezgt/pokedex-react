@@ -8,7 +8,7 @@ function App() {
         id={4}
         name="Charmander"
         type="fire"
-        base_experience={2} />
+        exp={2} />
     </div>
   );
 }
